@@ -1,0 +1,75 @@
+/* body {
+    background-color: lightslategray;
+}
+header > nav > ul > li {
+    display: inline-block;
+    border: 1px solid black;
+    width: 10%;
+    /* max-width: 70%;
+    min-width: 50%; */
+    /* margin: auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 25px;
+    background-color: azure;
+} */ 
+body {
+    height: 100%;
+}
+nav {
+    height: 15%;
+    width: 90%;
+    border: solid black 1px;
+    margin: 10px;
+    background-color: lightslategray;
+}
+li {
+    display: inline-block;
+    border: solid black 1px;
+    margin: 10px;
+    padding: 10px;
+}
+#logo {
+    border: none;
+}
+ul {
+    text-align: center;
+}
+#section1 {
+    display: inline;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+#section2, #section3, #section4 {
+    display: inline;
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+#section5 {
+    float: left;
+    margin-left: 10px;
+}
+#section6 {
+    margin-right: 95px;
+    margin-left: 5px;
+    padding: 10px;
+
+}
+h1 {
+    font-weight: bold;
+    font-size: large;
+}
+#footer {
+    width: 90%;
+    margin: 10px;
+    background-color: lightslategray;
+    position: relative;
+    height: 100px;
+    margin-top: -100px;
+    clear: both;
+    // https://www.google.com/search?q=how+do+i+put+a+footer+at+the+bottom+of+the+page+w%2F+css&oq=how+do+i+put+a+footer+at+the+bottom+of+the+page+w%2F+css&aqs=chrome..69i57.29999j0j1&sourceid=chrome&ie=UTF-8#kpvalbx=_XdGXXpeaJpvR0PEP-4iv-Ao26
+}
+#button {
+}
